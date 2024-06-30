@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sofonias-gashaw-dubale">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="www.youtube.com/@sofoniasgashaw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
@@ -47,5 +47,5 @@ I'm a graduate of computer engineering. I Love technology and electronics.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sofoniasgd&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofoniaasgd)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sofoniasgd&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofoniasgd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
