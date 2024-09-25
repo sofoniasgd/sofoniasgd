@@ -23,7 +23,7 @@ I'm a graduate of computer engineering. I Love technology and electronics.
 - 🌱 I’m currently learning software engineering and computer science
 - ⚡I love solving real world problems with Electronics and Software
 - 📽️ My next big focus is diving into the world of SE and Machine learning.
-- 🏗️ [check out my work](www.harmonyz.dev)
+- 🏗️ [check out my work](https://harmonyz.dev)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
